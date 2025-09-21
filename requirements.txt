@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+python-docx
+docx2txt
+sentence-transformers
+rapidfuzz
+sqlalchemy
