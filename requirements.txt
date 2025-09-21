@@ -5,3 +5,5 @@ docx2txt
 sentence-transformers
 rapidfuzz
 sqlalchemy
+pandas
+torch   # needed for sentence-transformers
